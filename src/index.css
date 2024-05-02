@@ -1,0 +1,17 @@
+body{
+    padding: 20px;
+
+}
+
+button{
+    margin-right: 10 px;
+}
+
+
+a{
+    margin-right: 5px;
+}
+
+.nav-link, .navbar-brand{
+    color: #fff;
+}
